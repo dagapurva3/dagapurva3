@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 -->
 ![Header](https://via.placeholder.com/1000x250.png?text=Purva+Daga) <!-- Replace this with your custom banner -->
 
-# Hey! 👋
+<div align="center">
+   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
+
+🚀 **Master's student at UW**  | Passionate about **coding & AI/ML 🌟** | **Ironman**
 
 My name is **Purva Daga**, and I am currently a **Master’s student in Electrical and Computer Engineering at the University of Waterloo**.  
-I am passionate about exploring **data engineering, software development, and AI** while solving real-world challenges.  
+I am passionate about exploring **data engineering, software development, and machine learning** while solving real-world challenges.  
 
 ---
 
@@ -37,18 +44,18 @@ I am passionate about exploring **data engineering, software development, and AI
 ---
 
 ## ⚡ One line that describes me best?
-A marathon runner and developer who loves to design scalable systems and enjoys challenges that push my limits.
+🚀 A developer passionate about designing scalable systems, conquering challenges, and staying fit both in code and life! 💻🏋️‍♂️
 
 ---
 
-## 🎯 My Interests
+<!--## 🎯 My Interests
 
 - Data engineering and optimization
 - Exploring AI for social impact
 - Building 3D and interactive web experiences
 - Marathon running and cycling
 
----
+--->
 
 ## 📫 Let's Connect
 
@@ -58,12 +65,12 @@ A marathon runner and developer who loves to design scalable systems and enjoys 
 
 ---
 
-## 🏆 Achievements
+<!--## 🏆 Achievements
 
 - Ironman 70.3 Finisher 🏅  
 - Bar Raiser Award for Athena and Hermes Projects 🏗️  
 - State-level Best Speaker Award 🎤  
 
----
+--->
 
 *“Strive not to be a success, but rather to be of value.”* – Albert Einstein

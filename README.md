@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://via.placeholder.com/1000x250.png?text=Purva+Daga) <!-- Replace this with your custom banner -->
+ <!-- Replace this with your custom banner ![Header](https://via.placeholder.com/1000x250.png?text=Purva+Daga)-->
 
 <div align="center">
    <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-🚀 **Master's student at UW**  | Passionate about **coding & AI/ML 🌟** | **Ironman**
+🚀 **Master's student at UWaterloo**  | Passionate about **coding & AI/ML 🌟** | **Ironman**
 
 My name is **Purva Daga**, and I am currently a **Master’s student in Electrical and Computer Engineering at the University of Waterloo**.  
 I am passionate about exploring **data engineering, software development, and machine learning** while solving real-world challenges.  

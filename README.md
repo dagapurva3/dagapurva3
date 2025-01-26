@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-My name is <a href="https://dagapurva3-github-io.vercel.app/" target="_blank">**Purva Daga** </a>, and I am currently a **Master’s student in Electrical and Computer Engineering at the University of Waterloo**.  
+My name is <a href="https://dagapurva3-github-io.vercel.app/" target="_blank">**Purva Daga**</a>, and I am currently a **Master’s student in Electrical and Computer Engineering at the University of Waterloo**.  
 I am passionate about exploring **data engineering, software development, and machine learning** while solving real-world challenges.  
 
 ---
